@@ -2,6 +2,7 @@
 layout: default
 title: SQL重学-排序（order by） 和 limit（关键字）
 parent: 重学SQL
+grand_parent: SQL
 ---
 # SQL重学-排序（order by） 和 limit（关键字）
 ORDER BY 关键字用于对结果集进行排序。
