@@ -3,6 +3,7 @@ layout: default
 title: 重学SQL
 nav_order: 1
 has_children: true
+parent: SQL
 permalink: /docs/SQL/重学SQL
 ---
 
