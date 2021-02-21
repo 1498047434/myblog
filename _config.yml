@@ -17,7 +17,7 @@
 title: 十下小草房
 description: A Jekyll theme for documentation
 baseurl: "/myblog" # the subpath of your site, e.g. /blog
-url: "https://1498047434.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://1498047434.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 
 
