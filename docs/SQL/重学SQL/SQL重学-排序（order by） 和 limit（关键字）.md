@@ -49,3 +49,5 @@ select * from employees order by hire_date desc limit 1;
 
 输出如下:
 ![file](https://blog.edkso.cn/wp-content/uploads/2021/02/image-1613891537556.png)
+
+
